@@ -1,4 +1,4 @@
-#Learning GitHub
+# Learning GitHub
 ---
 title: Welcome to my blog
 ---
